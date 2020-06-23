@@ -33,11 +33,6 @@ Predictive modelling— You need to know machine learning algorithms for these.
 - data collection and cleaning projects
 - data handling experience
 
-
-Learn the skills required to be a data scientist
-Work on projects
-Get hired as a Data Scientist
-
 ## Platforms Used
 - Udemy
 - Udacity
