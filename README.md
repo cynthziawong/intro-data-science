@@ -45,4 +45,4 @@ Get hired as a Data Scientist
 - edWisor **
 
 ## Sources
-https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
+- https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
