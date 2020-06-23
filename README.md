@@ -6,11 +6,11 @@
 - Visualisation
 - Machine learning Algorithms
 
+Statistics
 Data collection and cleaning— You are required to collection a large amount of data using different tools and technologies. This data is unstructured and needs to be cleaned to filter data that’s really required.
 Analysis — You use statistical techniques to analyse data.
 Visualisation — You need to know tools like Tableau, gglpots.
 Predictive modelling— You need to know machine learning algorithms for these.
-Now, looking at the above skills you might feel that it’s a lot of learn for a fresher. It definitely is. However, you don’t have to learn all these skills at once. You can begin by learning statistics. I recently wrote an answer on this which you can refer below.
 
 ## Techniques
 
@@ -43,6 +43,8 @@ Get hired as a Data Scientist
 - Udacity
 - Edureka
 - edWisor **
+- Codeacademy
+- DataCamp
 
 ## Sources
 - https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
