@@ -63,4 +63,5 @@ Get hired as a Data Scientist
 You can use platforms like Udemy, Udacity, Edureka, edWisor to learn the above skills. However, I would suggest you to use edwisor. Here you can learn all the above skills while working on projects. These projects can be easily used as your portfolio. Plus, there are a lot of analytics companies that hire for data science roles through edwisor based on the projects people do here. So give it a spin.
 
 
-Link: https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
+## Sources:
+https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
