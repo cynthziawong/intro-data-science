@@ -7,7 +7,10 @@
 - Machine learning Algorithms
 
 Statistics
-Data collection and cleaning— You are required to collection a large amount of data using different tools and technologies. This data is unstructured and needs to be cleaned to filter data that’s really required.
+Data collection and cleaning— You are required to collection a large amount of data using different tools and technologies. 
+
+This data is unstructured and needs to be cleaned to filter data that’s really required.
+
 Analysis — You use statistical techniques to analyse data.
 Visualisation — You need to know tools like Tableau, gglpots.
 Predictive modelling— You need to know machine learning algorithms for these.
@@ -50,7 +53,7 @@ Predictive modelling— You need to know machine learning algorithms for these.
 
 
 
-## Course -- To Review
+## Curriculum -- To Be Summarized
 Updated Jan 2020
 1
 Data Science Bootcamp
