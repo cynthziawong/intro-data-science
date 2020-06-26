@@ -54,15 +54,7 @@ Predictive modelling— You need to know machine learning algorithms for these.
 
 
 ## Curriculum -- To Be Summarized
-Updated Jan 2020
-1
-Data Science Bootcamp
-Curriculum
-NYC Data Science Academy
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
-Updated Jan 2020 2
- Program Objective
+
 Data science is a fast-evolving field and offers many employment opportunities for people with a robust
 operational analysis background. In recent years, technological development in data collection and
 storage and innovations in data science tools and methodologies have made it even more important
