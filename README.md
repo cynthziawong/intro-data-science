@@ -80,14 +80,9 @@ machine learning with R and Python and carry out research projects that involve 
 science methods and strategies. The program also exposes students to concepts and practices in
 deep learning and big data.
 
-#### NYC Data Science Academy
-
-Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 Prework
 
@@ -100,7 +95,6 @@ Students are also invited to join their cohort’s Slack channel, where they mee
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 Curriculum Topic Outline
 Data Science Toolkit – Linux, Git, Bash, and SQL
@@ -134,11 +128,10 @@ Data Science with R – Data Analytics – Part I
   - Control statements
   - Functions
   - Data Transformations
+- Data Science with R – Data Analytics – Part II
 
-Data Science with R – Data Analytics – Part II
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 - Data manipulation with “dplyr”
   - Introduction to dplyr
@@ -182,7 +175,6 @@ Data Science with Python– Data Analytics – Part II
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 - ??
   - Lambda functions and named functions
@@ -225,7 +217,6 @@ Data Science with Python – Data Analytics – Part II
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 Data Science with Python - Data Analytics – Part III
 Data Science with R - Machine Learning – Part I
@@ -266,7 +257,6 @@ Data Science with R - Machine Learning – Part II
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 - ??
   - Ridge Regression
@@ -291,10 +281,8 @@ Updated Jan 2020
   - Clustering Takeaways
   - Review
 - Web Scraping Project Presentations
-
-Data Science with R - Machine Learning – Part III
-Data Science with Python – Machine Learning – Part I
-
+- Data Science with R - Machine Learning – Part III
+- Data Science with Python – Machine Learning – Part I
 - Tree Methods II
   - Decision Trees
   - Bagging
@@ -311,14 +299,12 @@ Data Science with Python – Machine Learning – Part I
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 - ??
   - Association Rule Mining
   - Naïve Bayes
   - Review
-  
-Data Science with Python - Machine Learning
+- Data Science with Python - Machine Learning
 - Simple Linear Regression
   - What is Machine Learning
   - Introduction to Scikit-Learn
@@ -356,7 +342,6 @@ Data Science with Python - Machine Learning
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 - Boosting and Gradient Boosting
   - Boosting-Through the Example of LSBoost
@@ -398,7 +383,6 @@ Updated Jan 2020
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 -  Hive
   - Compiling HiveQL to MapReduce
@@ -442,7 +426,6 @@ Updated Jan 2020
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
 
 - Classic ConvNet Architecture II: VGGNet
   - Transfer Learning
@@ -482,7 +465,7 @@ Updated Jan 2020
 
 NYC Data Science Academy
 Data Science Bootcamp Curriculum
-Updated Jan 2020
+
 - Time Series Analysis with Deep Learning
   - Recurrent Neural Networks
   - Long Short-Term Memory Units
