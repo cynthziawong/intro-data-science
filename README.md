@@ -1,5 +1,5 @@
 # Introduction to Data Science
-This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems.
+This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various courses. 
 
 ## Skills
 - R and Python programming
@@ -47,8 +47,9 @@ Predictive modelling— You need to know machine learning algorithms for these.
 
 ## Sources
 - https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
+- https://nycdatascience.com/
 
-## Curriculum
+## Curriculum Outline from NYC Data Science Academy to be combined with above ^^^ 
 
 At the foundation level of the program, students learn to employ R and Python for data analytics
 projects and for presenting research results effectively. Beyond the foundational level, students study
@@ -56,19 +57,14 @@ machine learning with R and Python and carry out research projects that involve 
 science methods and strategies. The program also exposes students to concepts and practices in
 deep learning and big data.
 
-Prework
+## Prework
 
 Once students are enrolled in the bootcamp, they are granted access to our online, self-paced prework materials:
 - 20-30 hours: Introductory Python (Optional)
 - 35-45 hours: Data Analysis and Visualization with R
 - 20-30 hours: Data Analysis and Visualization with Python
 
-Students are also invited to join their cohort’s Slack channel, where they meet their future classmates, instructors, and get support on pre-work assignments. Enrolled bootcamp students can also choose to take part-time, beginner-level courses hosted at our NYC campus for preparation. Tuition paid for such courses will be credited as part of bootcamp tuition.
-
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
-
-Curriculum Topic Outline
+## Curriculum Topic Outline
 Data Science Toolkit – Linux, Git, Bash, and SQL
 Data Science with R – Data Analytics – Part I
 - Linux system
@@ -145,9 +141,6 @@ Data Science with Python– Data Analytics – Part II
   - Installing and using iPython
   - Simple values and expressions
 
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
-
 - ??
   - Lambda functions and named functions
   - Lists
@@ -187,9 +180,6 @@ Data Science with Python – Data Analytics – Part II
   - Matrix and linear algebra
 - Shiny Project Presentations
 
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
-
 Data Science with Python - Data Analytics – Part III
 Data Science with R - Machine Learning – Part I
 - Introduction to Pandas
@@ -226,9 +216,6 @@ Data Science with R - Machine Learning – Part II
   - Assessing Model Fit
   - Review
 - The Curse of Dimensionality
-
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
 
 - ??
   - Ridge Regression
@@ -268,9 +255,6 @@ Data Science Bootcamp Curriculum
   - Multi-Class SVMs
   - Review
 - Association Rules & Naïve Bayes
-
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
 
 - ??
   - Association Rule Mining
@@ -312,9 +296,6 @@ Data Science Bootcamp Curriculum
   - Decision Trees, A Geometric Perspectives
   - Bagging and Random Forests
 
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
-
 - Boosting and Gradient Boosting
   - Boosting-Through the Example of LSBoost
   - Gradient Boosting
@@ -352,9 +333,6 @@ Data Science Bootcamp Curriculum
   - Hadoop Monitoring Ports
 - Apache Hive:
   - Databases for Hadoop
-
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
 
 -  Hive
   - Compiling HiveQL to MapReduce
@@ -396,9 +374,6 @@ Data Science Bootcamp Curriculum
   - Classic ConvNet Architecture I: LeNet-5
   - Classic ConvNet Architecture II: AlexNet
 
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
-
 - Classic ConvNet Architecture II: VGGNet
   - Transfer Learning
   - Dogs vs Cats Kaggle Competition
@@ -434,9 +409,6 @@ Data Science Bootcamp Curriculum
   - Common database commands
   - GUI tool: MongoDB Compass
   - pyMongo
-
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
 
 - Time Series Analysis with Deep Learning
   - Recurrent Neural Networks
