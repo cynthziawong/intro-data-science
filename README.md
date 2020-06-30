@@ -1,5 +1,5 @@
 # Introduction to Data Science
-This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various courses. 
+This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions.
 
 ## Skills
 - R and Python programming
