@@ -48,42 +48,13 @@ Predictive modelling— You need to know machine learning algorithms for these.
 ## Sources
 - https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
 
-
-
-
-
-
-
-## Curriculum -- To Be Summarized
-
-Data science is a fast-evolving field and offers many employment opportunities for people with a robust
-operational analysis background. In recent years, technological development in data collection and
-storage and innovations in data science tools and methodologies have made it even more important
-to have properly trained data analysts and data scientists to perform data analyses to gain business
-insights.
-
-NYC Data Science Academy designed the Data Science Bootcamp to provide accelerated training to
-fulfill the need for data science professionals in the employment market. The objective of the Data
-Science Bootcamp is to provide training in primary data science tools and methods that prepares
-students for employment opportunities across all industries as data science professionals.
-
-#### Program Description
-
-The Data Science Bootcamp program is an advanced certificate program that is designed primarily
-for individuals who have earned a baccalaureate or higher degree and want to further their career in
-the field of data science. It is a very accelerated training program in which students learn the major
-tools and methods for performing data analyses and apply them to various projects typically found in
-the data science field.
+## Curriculum
 
 At the foundation level of the program, students learn to employ R and Python for data analytics
 projects and for presenting research results effectively. Beyond the foundational level, students study
 machine learning with R and Python and carry out research projects that involve advanced data
 science methods and strategies. The program also exposes students to concepts and practices in
 deep learning and big data.
-
-
-NYC Data Science Academy
-Data Science Bootcamp Curriculum
 
 Prework
 
