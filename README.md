@@ -1,20 +1,20 @@
 # Introduction to Data Science
 This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions.
 
+
 ## Skills
-- R and Python programming
+- R
+- Python programming
 - Statistics
 - Visualisation
 - Machine learning Algorithms
-
-Statistics
-Data collection and cleaning— You are required to collection a large amount of data using different tools and technologies. 
-
-This data is unstructured and needs to be cleaned to filter data that’s really required.
+- Statistics
+- Jupter Notebooks
+- Tableau
+- Predictive Modelling
 
 Analysis — You use statistical techniques to analyse data.
 Visualisation — You need to know tools like Tableau, gglpots.
-Predictive modelling— You need to know machine learning algorithms for these.
 
 ## Techniques
 
@@ -32,11 +32,6 @@ Predictive modelling— You need to know machine learning algorithms for these.
 12. KNN
 13. Native Bayes
 
-## Projects
-
-- data collection and cleaning projects
-- data handling experience
-
 ## Platforms Used
 - Udemy
 - Udacity
@@ -44,6 +39,7 @@ Predictive modelling— You need to know machine learning algorithms for these.
 - edWisor **
 - Codeacademy
 - DataCamp
+- JetBrains
 
 ## Sources
 - https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
