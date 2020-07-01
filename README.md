@@ -13,9 +13,6 @@ This curriculum is designed to cover various techniques and skills used in the d
 - Tableau
 - Predictive Modelling
 
-Analysis — You use statistical techniques to analyse data.
-Visualisation — You need to know tools like Tableau, gglpots.
-
 ## Techniques
 
 1. Exploratory data analysis
@@ -40,6 +37,7 @@ Visualisation — You need to know tools like Tableau, gglpots.
 - Codeacademy
 - DataCamp
 - JetBrains
+- Coursera
 
 ## Sources
 - https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
@@ -55,7 +53,6 @@ deep learning and big data.
 
 ## Prework
 
-Once students are enrolled in the bootcamp, they are granted access to our online, self-paced prework materials:
 - 20-30 hours: Introductory Python (Optional)
 - 35-45 hours: Data Analysis and Visualization with R
 - 20-30 hours: Data Analysis and Visualization with Python
