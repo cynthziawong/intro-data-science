@@ -14,6 +14,7 @@ This curriculum is designed to cover various techniques and skills used in the d
 - Jupter Notebooks
 
 # Daily Challenge
+### Week 1
 #### Tuesday 6/30:
 - Syllabus overview
 - Jetbrains Python: Zookeeper Stage 1 + 2
@@ -29,6 +30,7 @@ This curriculum is designed to cover various techniques and skills used in the d
   - Chapter Four: Functions
   - Chapter Five: Loops and Iteration
 
+### Week 2
 
 --------------------------------------------------------
 
@@ -70,11 +72,6 @@ machine learning with R and Python and carry out research projects that involve 
 science methods and strategies. The program also exposes students to concepts and practices in
 deep learning and big data.
 
-## Prework
-
-- 20-30 hours: Introductory Python (Optional)
-- 35-45 hours: Data Analysis and Visualization with R
-- 20-30 hours: Data Analysis and Visualization with Python
 
 ## Curriculum Topic Outline
 Data Science Toolkit – Linux, Git, Bash, and SQL
