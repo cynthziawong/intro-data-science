@@ -1,7 +1,24 @@
 # Introduction to Data Science
 This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions.
 
+# Daily Challenge
+#### Tuesday 6/30:
+Syllabus overview
+Jetbrains Python: Zookeeper Stage 1 + 2
 
+#### Thursday 7/2:
+Coursera Python for Everybody: Course 1/5
+Chapter Two: Variables and Expressions
+Chapter Three: Conditional Code
+Jetbrains Python: Zookeeper Stage 3
+
+#### Friday 7/3:
+Coursera Python for Everybody: Course 1/5
+Chapter Four: Functions
+Chapter Five: Loops and Iteration
+
+
+--------------------------------------------------------
 ## Skills
 - R
 - Python programming
