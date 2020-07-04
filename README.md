@@ -1,6 +1,17 @@
 # Introduction to Data Science
 This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions.
 
+#### We will focus on developing our skills and toolkit
+- Programming
+  - Python
+  - R
+- Statistics
+- Predictive Modelling
+  - Machine learning Algorithms
+- Visualisation
+  - Tableau
+- Jupter Notebooks
+
 # Daily Challenge
 #### Tuesday 6/30:
 - Syllabus overview
@@ -19,16 +30,6 @@ This curriculum is designed to cover various techniques and skills used in the d
 
 
 --------------------------------------------------------
-## Skills
-- R
-- Python programming
-- Statistics
-- Visualisation
-- Machine learning Algorithms
-- Statistics
-- Jupter Notebooks
-- Tableau
-- Predictive Modelling
 
 ## Techniques
 
