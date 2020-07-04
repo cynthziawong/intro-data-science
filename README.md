@@ -1,5 +1,5 @@
 # Introduction to Data Science
-This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions. As most data science bootcamps are quite costly, this curriculum is designed for affordability and accesibility in mind. Our goal is to democratize learning and level the playing ground for individuals that intend to pursue the field of data analytics and data science.
+This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions. As most data science bootcamps are costly, this curriculum is designed to prioritize affordability and accesibility in mind. Our goal is to democratize learning and level the playing ground for individuals that intend to pursue the field of data analytics and data science.
 
 #### We will focus on developing our skills and toolkit
 - Programming
