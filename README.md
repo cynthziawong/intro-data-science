@@ -5,8 +5,9 @@ This curriculum is designed to cover various techniques and skills used in the d
 - Programming
   - Python
   - R
-- Statistics
-- Predictive Modelling
+- Data Analysis
+  - Statistics
+  - Predictive Modelling
   - Machine learning Algorithms
 - Visualisation
   - Tableau
