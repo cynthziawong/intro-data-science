@@ -11,7 +11,7 @@ This curriculum is designed to cover various techniques and skills used in the d
   - Machine learning Algorithms
 - Visualisation
   - Tableau
-- Jupter Notebooks
+- Jupyter Notebooks
 
 # Curriculum
 
@@ -35,7 +35,10 @@ Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
   - Chapter Five: Loops and Iteration
 
 ## Week 2: Data Analysis with Python
+- 
 
+## Week 3: Building Applications with Python
+- 
 --------------------------------------------------------
 
 ## Techniques
