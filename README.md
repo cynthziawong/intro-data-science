@@ -13,14 +13,14 @@ This curriculum is designed to cover various techniques and skills used in the d
   - Tableau
 - Jupyter Notebooks
 
-# Curriculum
+# Course Overview
 
 ## Week 1: Introduction to Python
 Our goal will be to learn the basics of the Python language. We will review proper syntax, variables, expression, functions, loops and iterations. We will work on a project designed by Jetbrains (Zookeeper python project) as a way to apply our studies. Additionally, we will be working through Michigan University's 
 Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
 
 #### Tuesday 6/30:
-- Syllabus overview
+- First Meeting & Syllabus Overview
 - Jetbrains Python: Zookeeper Stage 1 + 2
 
 #### Thursday 7/2:
