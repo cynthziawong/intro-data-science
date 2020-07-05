@@ -1,5 +1,5 @@
 # Introduction to Data Science
-This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use Python, R, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions. As most data science bootcamps are costly, this curriculum is designed to prioritize affordability and accesibility in mind. Our goal is to democratize learning and level the playing ground for individuals that intend to pursue the field of data analytics and data science.
+This curriculum is designed to cover the technical skills and techniques used in the data science field. The intention is to learn how to use Python, R, and a diverse range of data techniques to solve business problems. The curriculum will be composed of topics, projects, and courses from various institutions. As most data science bootcamps are costly, this curriculum is designed to prioritize affordability and accesibility in mind. Our goal is to democratize learning and level the playing ground for individuals that intend to pursue the field of data analytics and data science.
 
 #### Skills and Toolkits
 - Programming Languages
@@ -16,7 +16,7 @@ This curriculum is designed to cover various techniques and skills used in the d
 # Course Overview
 
 ## Week 1: Introduction to Python - Foundations
-Our goal is to learn the fundamentals of the Python language by reviewing proper syntax, variables, expression, functions, loops and iterations. We will be working through University of Michigan's [Programming for Everybody Specialization's](https://www.coursera.org/specializations/python?#enroll) first course. Additionally, we will work on a Zookeeper python project designed by [Jetbrains](hyperskill.org) as a way to apply our studies. 
+Our goal is to learn the fundamentals of the Python language by reviewing proper syntax, variables, expression, functions, loops and iterations. We will be working through University of Michigan's [Programming for Everybody Specialization](https://www.coursera.org/specializations/python?#enroll)'s first course, [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) for our foundations. Additionally, we will work on the Zookeeper python project designed by [Jetbrains](https://www.jetbrains.com/academy/) as a way to apply our studies. 
 
 #### Tuesday 6/30:
 - First Meeting & Syllabus Overview
