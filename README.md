@@ -15,7 +15,7 @@ This curriculum is designed to cover various techniques and skills used in the d
 
 # Course Overview
 
-## Week 1: Introduction to Python
+## Week 1: Introduction to Python - Foundations
 Our goal will be to learn the fundamentals of the Python language. We will review proper syntax, variables, expression, functions, loops and iterations. We will work on a project designed by Jetbrains (Zookeeper python project) as a way to apply our studies. Additionally, we will be working through Michigan University's 
 Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
 
@@ -41,10 +41,10 @@ Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
 - Coursera Python for Everybody: HW/Quiz for Course 1, Chapter 5
 - Jetbrains Python: Zookeeper Stage 4 (End)
 
-## Week 2: Data Analysis with Python
+## Week 3: Data Analysis with Python
 - 
 
-## Week 3: Building Applications with Python
+## Week 6: Building Applications with Python
 - 
 --------------------------------------------------------
 
