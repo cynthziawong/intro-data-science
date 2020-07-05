@@ -37,6 +37,10 @@ Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
 #### Saturday 7/4:
 - Coursera Python for Everybody: HW/Quiz for Course 1, Chapter 2, 3, 4
 
+#### Sunday 7/5:
+- Coursera Python for Everybody: HW/Quiz for Course 1, Chapter 5
+- Jetbrains Python: Zookeeper Stage 4 (End)
+
 ## Week 2: Data Analysis with Python
 - 
 
