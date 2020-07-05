@@ -1,13 +1,13 @@
 # Introduction to Data Science
-This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use python, r, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions. As most data science bootcamps are costly, this curriculum is designed to prioritize affordability and accesibility in mind. Our goal is to democratize learning and level the playing ground for individuals that intend to pursue the field of data analytics and data science.
+This curriculum is designed to cover various techniques and skills used in the data science field. The intention is to learn how to use Python, R, and various data techniques to solve business problems. The curriculum will be composed of various topics, projects, and courses from different institutions. As most data science bootcamps are costly, this curriculum is designed to prioritize affordability and accesibility in mind. Our goal is to democratize learning and level the playing ground for individuals that intend to pursue the field of data analytics and data science.
 
-#### We will focus on developing our skills and toolkit
-- Programming
+#### Skills and Toolkits
+- Programming Languages
   - Python
   - R
 - Data Analysis
   - Statistics
-  - Predictive Modelling
+  - Predictive Modeling
   - Machine learning Algorithms
 - Visualisation
   - Tableau
@@ -16,12 +16,11 @@ This curriculum is designed to cover various techniques and skills used in the d
 # Course Overview
 
 ## Week 1: Introduction to Python - Foundations
-Our goal will be to learn the fundamentals of the Python language. We will review proper syntax, variables, expression, functions, loops and iterations. We will work on a project designed by Jetbrains (Zookeeper python project) as a way to apply our studies. Additionally, we will be working through Michigan University's 
-Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
+Our goal is to learn the fundamentals of the Python language by reviewing proper syntax, variables, expression, functions, loops and iterations. We will be working through University of Michigan's [Programming for Everybody Specialization's](https://www.coursera.org/specializations/python?#enroll) first course. Additionally, we will work on a Zookeeper python project designed by [Jetbrains](hyperskill.org) as a way to apply our studies. 
 
 #### Tuesday 6/30:
 - First Meeting & Syllabus Overview
-- Jetbrains Python: Zookeeper Stage 1 + 2
+- Jetbrains Python: Zookeeper Stage 1, 2
 
 #### Thursday 7/2:
 - Coursera Python for Everybody: Course 1/5
@@ -40,6 +39,8 @@ Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
 #### Sunday 7/5:
 - Coursera Python for Everybody: HW/Quiz for Course 1, Chapter 5
 - Jetbrains Python: Zookeeper Stage 4 (End)
+
+### Final thoughts on Programming for Everybody Specialization, Course 1 and Jetbrain's Zookeeper project
 
 ## Week 3: Data Analysis with Python
 - 
