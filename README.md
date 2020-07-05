@@ -34,6 +34,9 @@ Programming for Everybody (Getting Started with Python) chapter 1 to chapter 7.
   - Chapter Four: Functions
   - Chapter Five: Loops and Iteration
 
+#### Saturday 7/4:
+- Coursera Python for Everybody: HW/Quiz for Course 1, Chapter 2, 3, 4
+
 ## Week 2: Data Analysis with Python
 - 
 
