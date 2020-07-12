@@ -15,38 +15,16 @@ This curriculum is designed to cover the technical skills and techniques used in
 
 # Course Overview
 
-## Week 1: Introduction to Python - Foundations
-Our goal is to learn the fundamentals of the Python language by reviewing proper syntax, variables, expression, functions, loops and iterations. We will be working through University of Michigan's [Programming for Everybody Specialization](https://www.coursera.org/specializations/python?#enroll)'s first course, [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) for our foundations. Additionally, we will work on the Zookeeper python project designed by [Jetbrains](https://www.jetbrains.com/academy/) as a way to apply our studies. 
+This section will document the process in which we used to create a strong foundation in programming languages used for data analysis. If you are interested in following a similar path, please click [here](https://github.com/TheChandaChen/DataScienceSyllabus/tree/master).
 
-#### Tuesday 6/30:
-- First Meeting & Syllabus Overview
-- Jetbrains Python: Zookeeper Stage 1, 2
+## [Introduction to Python - Foundations](https://github.com/cynthziawong/intro-data-science/blob/master/Course%20Overview/Python%20Foundations.md)
 
-#### Thursday 7/2:
-- Coursera Python for Everybody: Course 1/5
-  - Chapter Two: Variables and Expressions
-  - Chapter Three: Conditional Code
-- Jetbrains Python: Zookeeper Stage 3
-
-#### Friday 7/3:
-- Coursera Python for Everybody: Course 1/5
-  - Chapter Four: Functions
-  - Chapter Five: Loops and Iteration
-
-#### Saturday 7/4:
-- Coursera Python for Everybody: HW/Quiz for Course 1, Chapter 2, 3, 4
-
-#### Sunday 7/5:
-- Coursera Python for Everybody: HW/Quiz for Course 1, Chapter 5
-- Jetbrains Python: Zookeeper Stage 4 (End)
-
-### Final thoughts on Programming for Everybody Specialization, Course 1 and Jetbrain's Zookeeper project
 
 ## Week 3: Data Analysis with Python
-- 
+-
 
 ## Week 6: Building Applications with Python
-- 
+-
 --------------------------------------------------------
 
 ## Techniques
@@ -79,7 +57,7 @@ Our goal is to learn the fundamentals of the Python language by reviewing proper
 - https://www.quora.com/What-is-the-career-roadmap-to-become-a-data-analyst-scientist
 - https://nycdatascience.com/
 
-## Curriculum Outline from NYC Data Science Academy to be combined with above ^^^ 
+## Curriculum Outline from NYC Data Science Academy to be combined with above ^^^
 
 At the foundation level of the program, students learn to employ R and Python for data analytics
 projects and for presenting research results effectively. Beyond the foundational level, students study
