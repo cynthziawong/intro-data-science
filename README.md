@@ -15,7 +15,7 @@ This curriculum is designed to cover the technical skills and techniques used in
 
 # Course Overview
 
-This section will document the process in which we used to create a strong foundation in programming languages used in data science. The links lead to the detailed information of the courses and our thoughts on each course. If you are interested in following a similar path, please click [here](https://github.com/TheChandaChen/DataScienceSyllabus/tree/master).
+This section will document the process in which we used to create a strong foundation in programming languages used in data science. The links lead to the detailed information of the courses and our thoughts on each course. If you are interested in following a similar path, please click [here](https://github.com/TheChandaChen/DataScienceSyllabus).
 
 - [Introduction to Python - Foundations](https://github.com/cynthziawong/intro-data-science/blob/master/Course%20Overview/Python%20Foundations.md)
   - Python for Everybody - Course 1 and 2
@@ -30,7 +30,7 @@ This section will document the process in which we used to create a strong found
 ## Techniques
 
 1. Exploratory data analysis
-2 Missing value analysis
+2. Missing value analysis
 3. Outlier analysis
 4. Feature scaling
 5. Sampling techniques
