@@ -15,16 +15,16 @@ This curriculum is designed to cover the technical skills and techniques used in
 
 # Course Overview
 
-This section will document the process in which we used to create a strong foundation in programming languages used for data analysis. If you are interested in following a similar path, please click [here](https://github.com/TheChandaChen/DataScienceSyllabus/tree/master).
+This section will document the process in which we used to create a strong foundation in programming languages used in data science. The links lead to the detailed information of the courses and our thoughts on each course. If you are interested in following a similar path, please click [here](https://github.com/TheChandaChen/DataScienceSyllabus/tree/master).
 
-## [Introduction to Python - Foundations](https://github.com/cynthziawong/intro-data-science/blob/master/Course%20Overview/Python%20Foundations.md)
+- [Introduction to Python - Foundations](https://github.com/cynthziawong/intro-data-science/blob/master/Course%20Overview/Python%20Foundations.md)
+  - Python for Everybody - Course 1 and 2
+  - Jetbrains - Zookeeper project and Smart Calculator project
 
+- Week 3: Data Analysis with Python
 
-## Week 3: Data Analysis with Python
--
+- Week 6: Building Applications with Python
 
-## Week 6: Building Applications with Python
--
 --------------------------------------------------------
 
 ## Techniques
